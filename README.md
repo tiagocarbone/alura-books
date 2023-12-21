@@ -1,2 +1,7 @@
-# js-consumindo-dados-api
-Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
+# Link
+
+https://tiagocarbone.github.io/repositorio-flexbox/
+
+Insere o CEP dinamicamente
+
+
